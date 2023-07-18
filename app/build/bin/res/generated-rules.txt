@@ -1,8 +1,8 @@
-# Referenced at /storage/emulated/0/AppProject/Lyroom/app/build/bin/AndroidManifest.xml:20
+# Referenced at /storage/emulated/0/AppProject/Git/app/build/bin/AndroidManifest.xml:20
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /storage/emulated/0/AppProject/Lyroom/app/build/bin/AndroidManifest.xml:38
+# Referenced at /storage/emulated/0/AppProject/Git/app/build/bin/AndroidManifest.xml:38
 -keep class androidx.startup.InitializationProvider { <init>(); }
-# Referenced at /storage/emulated/0/AppProject/Lyroom/app/build/bin/AndroidManifest.xml:28
+# Referenced at /storage/emulated/0/AppProject/Git/app/build/bin/AndroidManifest.xml:28
 -keep class app.uaiim.lyroom.MainActivity { <init>(); }
 # Referenced at /storage/emulated/0/AppProject/Lyroom/app/build/libs/ccc362b1e6d93ca72726b05ce1b074f2/res/layout/abc_alert_dialog_button_bar_material.xml:43
 # Referenced at /storage/emulated/0/AppProject/Lyroom/app/build/libs/ccc362b1e6d93ca72726b05ce1b074f2/res/layout/abc_alert_dialog_material.xml:55
